@@ -1,0 +1,15 @@
+# example structure for illustrating the language
+primary
+# the primary structure is indexed starting from 1
+AAGACCUGCACGCUAGUU
+declare
+# these are the basic loops, identified by the starting index and
+# the ending index
+h1 = (2,14),
+h2 = (3,13),
+h3 = (4,7),
+h4 = (8,12)
+structure
+# this is an expression using the nesting and concatenation operators containing a semantic error
+(h3 + h4) | h2 | h1
+end

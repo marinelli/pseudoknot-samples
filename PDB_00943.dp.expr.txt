@@ -1,0 +1,21 @@
+primary
+UUGAUUaUGGAUUAAUUGAUUauGGAUuAAGAuUauGGUUUGAuUauGGAUuAA
+declare
+h1 = (5,11),
+h2 = (4,12),
+h3 = (3,13),
+h4 = (2,14),
+h5 = (1,15),
+h6 = (20,26),
+h7 = (19,27),
+h8 = (18,28),
+h9 = (17,29),
+h10 = (16,30),
+h11 = (44,50),
+h12 = (43,51),
+h13 = (42,52),
+h14 = (41,53),
+h15 = (40,54)
+structure
+h1 | h2 | h3 | h4 | h5 + h6 | h7 | h8 | h9 | h10 + h11 | h12 | h13 | h14 | h15
+end

@@ -1,0 +1,5 @@
+# This is the dot-bracket notation representation of the structure above
+# First the primary structure, as in the other file
+AAGACCUGCACGCUAGUU
+.(((..).(..))).(.)
+# After the corresponding dot-bracket notation
